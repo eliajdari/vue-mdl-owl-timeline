@@ -8,6 +8,8 @@ A timeline example using vue, mdl, and owl carousel.
 - owl carousel (version 1, not the version 2 beta)
 - Moment.js
 - jquery-mousewheel
+- Browserify
+- http-server
 
 # Run example:
 ```
